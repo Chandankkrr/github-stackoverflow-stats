@@ -4,7 +4,7 @@
 
 Stack Overflow | SharePoint 
 ------------ | -------------
-[![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow)](https://stackoverflow.com/users/3382909) | [![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=71255&site=sharepoint)](https://sharepoint.stackexchange.com/users/71255)
+[![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow)](https://stackoverflow.com/users/3382909/chandan-rauniyar?tab=profile) | [![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=71255&site=sharepoint)](https://sharepoint.stackexchange.com/users/71255/chandan-rauniyar?tab=profile)
 
 
 
