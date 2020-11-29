@@ -22,3 +22,11 @@ E.g. Mine looks like
 https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow
 https://github-stack-overflow-stats.vercel.app/api/index?user=71255&site=sharepoint
 ````
+
+## Deployed using Vercel	
+
+
+Deploy your own React project, along with Serverless Functions, with Vercel.	
+
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/create-react-app-functions)
