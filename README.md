@@ -1,21 +1,24 @@
-![React Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/react.svg)
+# github-stackoverflow-stats
 
-# React Example
+🖥️ Stack Overflow stats on your GitHub Profile
 
-This directory is a brief example of a [React](https://reactjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+Stack Overflow | SharePoint 
+------------ | -------------
+[![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow)](https://stackoverflow.com/users/3382909) | [![CK](https://github-stack-overflow-stats.vercel.app/api/index?user=71255&site=sharepoint)](https://sharepoint.stackexchange.com/users/71255)
 
-## Deploy Your Own
 
-Deploy your own React project, along with Serverless Functions, with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/create-react-app-functions)
 
-_Live Example: https://create-react-app.now-examples.now.sh/_
+To display your Stack Overflow stats on your GitHub profile, add the following to your GitHub's readme file.
 
-### How We Created This Example
-
-To get started with React, along with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction), with Vercel, you can use the [Create-React-App CLI](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) to initialize the project:
-
-```shell
-$ npx create-react-app my-app
 ```
+[![Stack Overflow Stats](https://github-stack-overflow-stats.vercel.app/
+api/index?user=STACKOVERFLOW_USER_ID&site=STACKOVERFLOW_SITE_NAME)](#)
+```
+
+E.g. Mine looks like 
+
+```
+https://github-stack-overflow-stats.vercel.app/api/index?user=3382909&site=stackoverflow
+https://github-stack-overflow-stats.vercel.app/api/index?user=71255&site=sharepoint
+````
